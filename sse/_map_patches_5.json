@@ -1,0 +1,31 @@
+{
+ "_id": "4ERKcni5WZuLiEhdS",
+ "url": "/%2Fmap_patches%2F5.png",
+ "socName": "Cityscapes",
+ "objects": [
+  {
+   "classIndex": 15,
+   "layer": 0,
+   "polygon": [
+    {
+     "x": 260.86494391258816,
+     "y": 4275.999999999998
+    },
+    {
+     "x": 278.4331107320226,
+     "y": 4244.342044210777
+    },
+    {
+     "x": 316.2722392661892,
+     "y": 4275.999999999998
+    }
+   ],
+   "label": "Building"
+  }
+ ],
+ "tags": [],
+ "folder": "/map_patches",
+ "file": "5.png",
+ "lastEditDate": "2021-07-06T09:58:33.062Z",
+ "firstEditDate": "2021-07-06T09:58:33.062Z"
+}
